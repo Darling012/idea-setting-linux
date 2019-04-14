@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="performing" />
       <item value="interact" />
       <item value="illegal" />
       <item value="suggest" />
@@ -50,11 +51,10 @@
       <item value="excluded" />
       <item value="continue" />
       <item value="Deregister" />
-      <item value="plain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
+        <entry key="CHINESE" value="161" />
         <entry key="ENGLISH" value="161" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
