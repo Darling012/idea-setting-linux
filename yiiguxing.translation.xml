@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coverage" />
+      <item value="coveragt" />
       <item value="performing" />
       <item value="interact" />
       <item value="illegal" />
@@ -49,8 +51,6 @@
       <item value="consider" />
       <item value="nested" />
       <item value="excluded" />
-      <item value="continue" />
-      <item value="Deregister" />
     </histories>
     <option name="languageScores">
       <map>
