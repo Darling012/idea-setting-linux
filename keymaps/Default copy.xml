@@ -14,6 +14,12 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="subtract" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
