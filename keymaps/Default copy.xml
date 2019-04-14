@@ -3,10 +3,6 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="CollapseTreeNode">
-    <keyboard-shortcut first-keystroke="subtract" />
-    <keyboard-shortcut first-keystroke="9" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -18,10 +14,6 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="FullyExpandTreeNode">
-    <keyboard-shortcut first-keystroke="multiply" />
-    <keyboard-shortcut first-keystroke="0" />
-  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
