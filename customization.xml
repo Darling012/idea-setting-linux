@@ -20,6 +20,11 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CheckinProject" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
