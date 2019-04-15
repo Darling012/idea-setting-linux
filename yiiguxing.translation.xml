@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="caret" />
       <item value="prevented" />
       <item value="june" />
       <item value="coverage" />
@@ -50,11 +51,10 @@
       <item value="abnormal" />
       <item value="injections" />
       <item value="managed" />
-      <item value="consider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
+        <entry key="CHINESE" value="162" />
         <entry key="ENGLISH" value="162" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />

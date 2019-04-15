@@ -9,8 +9,8 @@
         <entry key="Basic Navigation" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
-        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
-        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="PASSED" />
         <entry key="Collapse" value="PASSED" />
         <entry key="Comment Line" value="PASSED" />
         <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
@@ -79,6 +79,30 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1555340332051" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.ParameterInfo">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="48773" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.QuickPopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="79799" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Collapse">
           <value>
             <StatisticData>
@@ -140,6 +164,14 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="1996474" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1555340367897" />
             </StatisticData>
           </value>
         </entry>
