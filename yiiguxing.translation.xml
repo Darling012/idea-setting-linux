@@ -1,0 +1,78 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="caret" />
+      <item value="prevented" />
+      <item value="june" />
+      <item value="coverage" />
+      <item value="coveragt" />
+      <item value="performing" />
+      <item value="interact" />
+      <item value="illegal" />
+      <item value="suggest" />
+      <item value="No identifier specified" />
+      <item value="identifier" />
+      <item value="Aware" />
+      <item value="Delegate" />
+      <item value="Candidate" />
+      <item value="through" />
+      <item value="notify" />
+      <item value="actually" />
+      <item value="Ensure" />
+      <item value="otherwise" />
+      <item value="optimize" />
+      <item value="optmise" />
+      <item value="access" />
+      <item value="arbitrary" />
+      <item value="which is bound to the" />
+      <item value="bound" />
+      <item value="delegate" />
+      <item value="deletage " />
+      <item value="detect" />
+      <item value="suppress" />
+      <item value="statis" />
+      <item value="matches" />
+      <item value="ambiguous" />
+      <item value="Darling" />
+      <item value="comments" />
+      <item value="belong" />
+      <item value="reports" />
+      <item value="inspection" />
+      <item value="disabled" />
+      <item value="stored" />
+      <item value="expected" />
+      <item value="strategy" />
+      <item value="suspicious" />
+      <item value="feat" />
+      <item value="rebase" />
+      <item value="rabase" />
+      <item value="invalid" />
+      <item value="members" />
+      <item value="abnormal" />
+      <item value="injections" />
+      <item value="managed" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="162" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="ROMANIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190402000283870" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Arial" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+  </component>
+</application>
