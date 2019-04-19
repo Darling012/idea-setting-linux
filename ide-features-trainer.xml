@@ -167,11 +167,35 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1555661177304" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1555661179656" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Navigation.JumptoSource">
           <value>
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1555340367897" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1555661183154" />
             </StatisticData>
           </value>
         </entry>
