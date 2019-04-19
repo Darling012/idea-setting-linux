@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested" />
+      <item value="metadata" />
       <item value="internal" />
       <item value="enterprise" />
       <item value="caret" />
@@ -49,8 +51,6 @@
       <item value="rebase" />
       <item value="rabase" />
       <item value="invalid" />
-      <item value="members" />
-      <item value="abnormal" />
     </histories>
     <option name="languageScores">
       <map>
