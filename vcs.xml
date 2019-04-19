@@ -150,6 +150,10 @@
           <option name="url" value="https://git.coodex.org/zhangling/shutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.10.50.228:3000/jtXDev/parking-refactoring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\workcode" />
