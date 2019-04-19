@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enterprise" />
       <item value="caret" />
       <item value="prevented" />
       <item value="june" />
@@ -50,7 +51,6 @@
       <item value="members" />
       <item value="abnormal" />
       <item value="injections" />
-      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
