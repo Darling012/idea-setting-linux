@@ -22,10 +22,10 @@
         <entry key="Hippie Completion" value="NOT_PASSED" />
         <entry key="Move" value="PASSED" />
         <entry key="Multiple Selections" value="PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
-        <entry key="Navigation.FileStructure" value="PASSED" />
-        <entry key="Navigation.JumptoSource" value="PASSED" />
-        <entry key="Navigation.Next/PreviousOccurrences" value="PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
+        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
+        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
@@ -167,35 +167,11 @@
             </StatisticData>
           </value>
         </entry>
-        <entry key="Navigation.Declaration/Implementation">
-          <value>
-            <StatisticData>
-              <option name="state" value="PASSED" />
-              <option name="timestamp" value="1389988" />
-            </StatisticData>
-          </value>
-        </entry>
-        <entry key="Navigation.FileStructure">
-          <value>
-            <StatisticData>
-              <option name="state" value="PASSED" />
-              <option name="timestamp" value="1401866" />
-            </StatisticData>
-          </value>
-        </entry>
         <entry key="Navigation.JumptoSource">
           <value>
             <StatisticData>
-              <option name="state" value="PASSED" />
-              <option name="timestamp" value="322190500" />
-            </StatisticData>
-          </value>
-        </entry>
-        <entry key="Navigation.Next/PreviousOccurrences">
-          <value>
-            <StatisticData>
-              <option name="state" value="PASSED" />
-              <option name="timestamp" value="1434912" />
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1555340367897" />
             </StatisticData>
           </value>
         </entry>

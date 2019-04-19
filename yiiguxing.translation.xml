@@ -1,12 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="extract" />
-      <item value="exclude" />
-      <item value="nested" />
-      <item value="metadata" />
-      <item value="internal" />
-      <item value="enterprise" />
       <item value="caret" />
       <item value="prevented" />
       <item value="june" />
@@ -51,11 +45,17 @@
       <item value="suspicious" />
       <item value="feat" />
       <item value="rebase" />
+      <item value="rabase" />
+      <item value="invalid" />
+      <item value="members" />
+      <item value="abnormal" />
+      <item value="injections" />
+      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="162" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
