@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="given" />
+      <item value="various" />
+      <item value="access" />
+      <item value="gain" />
       <item value="caret" />
       <item value="prevented" />
       <item value="june" />
@@ -22,7 +26,6 @@
       <item value="otherwise" />
       <item value="optimize" />
       <item value="optmise" />
-      <item value="access" />
       <item value="arbitrary" />
       <item value="which is bound to the" />
       <item value="bound" />
@@ -48,9 +51,6 @@
       <item value="rabase" />
       <item value="invalid" />
       <item value="members" />
-      <item value="abnormal" />
-      <item value="injections" />
-      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
