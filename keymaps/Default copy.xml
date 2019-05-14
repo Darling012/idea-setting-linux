@@ -24,5 +24,8 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="mybatis.AutoCoding">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
