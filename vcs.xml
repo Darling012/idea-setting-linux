@@ -150,6 +150,10 @@
           <option name="url" value="https://github.com/Zhangling012/spring-boot-2.2.0.BUILD-SNAPSHOT.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="782775618@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/media/ling/娱乐/Workspaces/springboot/sourceCode" />
