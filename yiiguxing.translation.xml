@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="addition" />
+      <item value="Embedded" />
       <item value="Management" />
       <item value="nested" />
       <item value="Invalid" />
@@ -49,13 +51,11 @@
       <item value="feat" />
       <item value="rebase" />
       <item value="rabase" />
-      <item value="invalid" />
-      <item value="members" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
