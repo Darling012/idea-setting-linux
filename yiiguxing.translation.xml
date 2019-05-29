@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compression" />
       <item value="addition" />
       <item value="Embedded" />
       <item value="Management" />
@@ -50,12 +51,11 @@
       <item value="suspicious" />
       <item value="feat" />
       <item value="rebase" />
-      <item value="rabase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
