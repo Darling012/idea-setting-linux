@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configuration and lifecycle methods are encapsulated here to avoid * making them obvious to ApplicationContext client code. The present * methods should only be used by startup and shutdown code." />
+      <item value="avoid" />
+      <item value="encapsulated" />
       <item value="compression" />
       <item value="addition" />
       <item value="Embedded" />
@@ -48,14 +51,11 @@
       <item value="stored" />
       <item value="expected" />
       <item value="strategy" />
-      <item value="suspicious" />
-      <item value="feat" />
-      <item value="rebase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
