@@ -162,6 +162,10 @@
           <option name="url" value="https://github.com/ZhangLing012/netty-4.1.6.Final.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ZhangLing012/design_pattern.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/media/ling/娱乐/Workspaces/spring" />
