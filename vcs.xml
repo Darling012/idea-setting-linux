@@ -174,9 +174,13 @@
           <option name="url" value="https://github.com/muyinchen/Java-programming-methodology-Rxjava-articles.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Darling012/springboot2.0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/media/ling/娱乐/Workspaces" />
+    <option name="cloneParentDir" value="/media/ling/娱乐/Workspaces/springboot/springboot2.0" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
